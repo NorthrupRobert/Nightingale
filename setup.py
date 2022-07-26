@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='StatPy',
+setup(name='nightingale',
       version='0.1',
-      description='A plugin that computes statistical data using basic models.',
-      url='https://github.com/NorthrupRobert/StatPy',
+      description='A python library for statistical and scientific computations.',
+      url='https://github.com/NorthrupRobert/nightingale',
       author='Robb Northrup',
       author_email='RobbNorthrup@outlook.com',
       license='MIT',
-      packages=['StatPy'],
+      packages=['nightingale'],
       zip_safe=False)
