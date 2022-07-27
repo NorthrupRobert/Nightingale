@@ -11,9 +11,10 @@ features including but not limited to:
 
 Planned features:
 - Regression algorithms
- - Linear
- - Logistic
+  - Linear
+  - Logistic
 - The dataset object
+- Probability Statistical Analysis
 
 ## Table of Contents
 
@@ -22,7 +23,7 @@ Planned features:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Release Notes](#release-notes)
- - [0.1](#01)
+  - [0.1](#01)
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
@@ -56,11 +57,11 @@ ng.rand_sample(data_set=saturn_moon_radii, 10)
 #### Initial Release
 - Code base is implemented
 - Sampling methods introduced using the numpy.ndarray object type
- - Simple Random Sampling
- - Systematic Random Sampling
+  - Simple Random Sampling
+  - Systematic Random Sampling
 - Basic measures of centeral tendency implemented.
- - Mean
- - Median
+  - Mean
+  - Median
 
 #### 0.1.1
  - Updated README to reflect the nature of the project.
