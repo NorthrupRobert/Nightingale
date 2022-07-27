@@ -1,3 +1,5 @@
+![Nightingale Logo](/graphics/logo.png)
+
 # Nightingale
 
 A python library for statistical and scientific computations.
