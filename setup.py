@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='nightingale',
-      version='0.1',
+      version='0.1.1',
       description='A python library for statistical and scientific computations.',
       url='https://github.com/NorthrupRobert/nightingale',
       author='Robb Northrup',
